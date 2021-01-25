@@ -52,7 +52,7 @@ You must be a Teams service admin to make these changes. See [Use Teams administ
 Anonymous users will now inherit the user-level global default permission policy. This control will then allow anonymous users to interact with apps in Teams meetings as long as the user-level permission policy has enabled the app. Note that anonymous users can only interact with apps that are already available in a meeting and cannot acquire and/or manage these apps. 
 
 > [!IMPORTANT]
-> By default, the setting to allow anonymous users to interact with apps in meetings is enabled.
+> By default, the setting to allow anonymous users to interact with apps in meetings is enabled.Interacting with an app means anonymous users can interact with app cards in the meeting chat.
 
 ![An icon showing the Microsoft Teams logo](media/teams-logo-30x30.png) **Using the Microsoft Teams admin center**
 
